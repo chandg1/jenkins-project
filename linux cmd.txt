@@ -1,0 +1,2 @@
+1- sudo su -: to became root user
+2-clear: to clear the screen
